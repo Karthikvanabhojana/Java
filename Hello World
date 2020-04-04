@@ -1,6 +1,6 @@
 //by KARTHIK V//
 public class PrintMessage {                     //note that class name should be same as that of the file nume in eclipse//
 public static void main(String[] args) {   
-System.out.println("Welcome to object oriented programming");     //print Statement.//
+System.out.println("Hello World");     //print Statement.//
 }     
 }
